@@ -209,6 +209,18 @@ ul#menu li a:hover
   padding: 0;
   margin: 0 0 16px 0;}
 
+.mashup
+{
+  margin: 10px 0;
+    background-color: #e2ebe3;
+    color: #343142;
+    margin-bottom: 16px;
+    /* display: table; */
+    padding: 10px 10px 10px 10px;
+    border-radius: 2px;
+    max-width: 100%;
+}
+
 .sidebar_item
 { background: url(side_back.png) repeat-y;
   padding: 0 15px;
